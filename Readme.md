@@ -3,7 +3,7 @@
 IndoDub+ adalah aplikasi streaming yang dibuat untuk memudahkan pengguna menikmati film, serial, anime, dan berbagai konten dengan sulih suara (dubbing) Bahasa Indonesia serta subtitle.
 
 📱 Download Aplikasi
-
+https://sfile.co/st1NUogYvnw
 ⬇️ Versi Terbaru
 
 Silakan buka bagian Releases untuk mengunduh versi aplikasi terbaru.
