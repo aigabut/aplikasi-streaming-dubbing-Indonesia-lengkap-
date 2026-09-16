@@ -8,7 +8,7 @@ https://sfile.co/st1NUogYvnw
 
 Silakan buka bagian Releases untuk mengunduh versi aplikasi terbaru.
 
-"Download IndoDub+" (../../releases/latest)
+
 
 «Pastikan mengunduh file APK dari Release resmi repository ini.»
 
